@@ -2,4 +2,4 @@
 
 My personal website. 
 
-Thanks to the minimal theme by (orderedlist)[https://github.com/orderedlist]!
+Thanks to the minimal theme by [orderedlist](https://github.com/orderedlist)!
