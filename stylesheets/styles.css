@@ -251,7 +251,9 @@ h1.header, a.header, a.name, header a{
 }
 
 a.header {
-	text-decoration: underline;
+	color:#C30000;
+	font-weight:200;
+	text-decoration:none;
 }
 
 a.name {
