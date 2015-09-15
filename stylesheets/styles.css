@@ -246,11 +246,11 @@ h1.header {
 }
 
 
-h1.header, header a{
+h1.header {
 	color: #fff;
 }
 
-a.header {
+a.header, a.name, header a {
 	color:#C30000;
 	font-weight:200;
 	text-decoration:none;
