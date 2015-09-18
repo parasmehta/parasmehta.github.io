@@ -270,9 +270,9 @@ header li {
 	list-style-type: none;
   width:135px;
   height:15px;
-	margin-bottom: 12px;
+	margin-bottom: 10px;
 	line-height: 1em;
-	padding: 6px 6px 6px 7px;
+	padding: 5px 5px 5px 6px;
 }
 
 header li:hover {
