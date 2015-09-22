@@ -89,6 +89,14 @@ a small {
 	font-size: 12px;
 }
 
+x-small {
+   font-size:6px;
+}
+
+a x-small {
+   font-size:6px;
+}
+
 em {
 	font-style: italic;
 }
